@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QKfYj1G6XU670hM+bzuT4/S4o/0krg8y02rPNnu7LN2dUN8ko2A2tKznd/sxpVO5I+Yk+KNm94tbaAC/OSzXMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gamze Blbn\\source\\repos\\ButceTakip\\ButceTakip\\ButceTakip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamze Blbn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
